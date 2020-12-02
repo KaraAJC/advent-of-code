@@ -7,3 +7,7 @@
 ### [Problem](2020/1/problem.md)
 ### [Solution](2020/1/solution.rb)
 _note: to run, call `irb solution.rb` and follow the prompts to receive the magic number._
+
+## Day 2: Password Philosophy
+### [Problem](2020/2/problem.md)
+### [Solution](2020/2/solution.rb)
