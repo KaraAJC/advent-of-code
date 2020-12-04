@@ -11,3 +11,8 @@ _note: to run, call `irb solution.rb` and follow the prompts to receive the magi
 ## Day 2: Password Philosophy
 ### [Problem](2020/2/problem.md)
 ### [Solution](2020/2/solution.rb)
+
+## Day 3: Toboggan Trajectory
+### [Problem](2020/3/problem.md)
+### [Solution](2020/3/solution.rb) _unfinished womp womp_
+### [run solution](2020/3/runner.rb)
