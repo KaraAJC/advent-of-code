@@ -16,3 +16,8 @@ _note: to run, call `irb solution.rb` and follow the prompts to receive the magi
 ### [Problem](2020/3/problem.md)
 ### [Solution](2020/3/solution.rb) _unfinished womp womp_
 ### [run solution](2020/3/runner.rb)
+
+## Day 4: Passport Processing
+### [Problem](2020/4/problem.md)
+### [Solution](2020/4/solution.rb)
+### [run solution](2020/4/runner.rb)
